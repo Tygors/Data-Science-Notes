@@ -22,6 +22,10 @@
 [9.feature-engineering](9.feature-engineering)（特征工程基础）
 
 
+## Tygors本地测试
+
+[local-test](local-test)（本地库测试）
+
 
 ## 参考
 
@@ -37,12 +41,13 @@
 - 《python科学计算》
 
 
-## 关于作者
+## 关于原repo作者
 
 微信公众号：机器学习初学者 ![gongzhong](images/gongzhong.jpg)
+
 知识星球：黄博的机器学习圈子![xingqiu](images/zhishixingqiu1.jpg)
 
-[我的知乎](https://www.zhihu.com/people/fengdu78/activities)
+[他的知乎](https://www.zhihu.com/people/fengdu78/activities)
 
 机器学习qq群：704220115（我们有11个群，加过一个就不需要加了）
 
